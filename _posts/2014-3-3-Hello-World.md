@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Estrenando Jekyll en Github
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+Este es mi primer comentario en este blog, estoy probando cómo funciona Jekyll sobre Github, y parece interesante. Antes siempre funcioné con Wordpress, pero parece que es demasiado hackeable y, sinceramente, demasiado complicado ya (bloated).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Escribiré básicamente sobre programación, software, cloud computing, internet, etc. Normalmente será en Castellano, ya que uno puede leer muchos blogs interesantes sobre programación en Inglés, pero pocos en Castellano. Algunas entradas sí que serán en Inglés, pero pocas.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+En fin, creo que debería probar un editor de Markdown, por ejemplo Prose.io
