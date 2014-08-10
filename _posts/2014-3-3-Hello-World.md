@@ -7,4 +7,4 @@ Este es mi primer comentario en este blog, estoy probando cómo funciona Jekyll 
 
 Escribiré básicamente sobre programación, software, cloud computing, internet, etc. Normalmente será en Castellano, ya que uno puede leer muchos blogs interesantes sobre programación en Inglés, pero pocos en Castellano. Algunas entradas sí que serán en Inglés, pero pocas.
 
-En fin, creo que debería probar un editor de Markdown, por ejemplo Prose.io
+En fin, creo que debería probar un editor de Markdown, por ejemplo http://prose.io
