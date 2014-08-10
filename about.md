@@ -18,4 +18,4 @@ Do you have any interesting project or proposal? My reply ratio is 100%: [jlg.hr
 ### Music
 
 - [Chico minimal](https://archive.org/details/bump024)
-- [Soundcloud](soundcloud.com/herotyc)
+- [Soundcloud](http://soundcloud.com/herotyc)
