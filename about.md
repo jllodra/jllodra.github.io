@@ -1,14 +1,17 @@
 ---
 layout: page
 title: About
+published: true
 ---
 
-Some information about you!
+Well, I don't like talking about myself.
 
-### More Information
+### More information
 
-A place to include any other types of information that you'd like to include about yourself. 
+…
 
-### Contact me
+### Projects done
 
-[email@domain.com](mailto:email@domain.com)
+### Contactarme
+
+[jlg.hrtc@gmail.com](mailto:jlg.hrtc@gmail.com)
