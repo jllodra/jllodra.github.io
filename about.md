@@ -8,7 +8,7 @@ I am a software developer who has been writing code since the age of 16.
 
 Do you have any interesting project or proposal? My reply ratio is 100%: [jlg.hrtc@gmail.com](mailto:jlg.hrtc@gmail.com)
 
-### Projects and works
+### Projects and works (foss and non-foss)
 
 - **PyPrint**: HTTP printing server written in Python, capable of html and pdf printing, perfect for being called from client-side javascript.
 - **Modest**:
