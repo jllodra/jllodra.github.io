@@ -10,6 +10,7 @@ Do you have any interesting project or proposal? My reply ratio is 100%: [jlg.hr
 
 ### Projects and works
 
+- **PyPrint**: HTTP printing server written in Python, capable of html and pdf printing, perfect for being called from client-side javascript.
 - **Modest**:
 - **ncdump-json**: 
 - **html5 creative experiments**:
