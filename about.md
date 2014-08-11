@@ -17,6 +17,8 @@ Do you have any interesting project or proposal? My reply ratio is 100%: [jlg.hr
 - **Times tables game**:
 - **Silabear**:
 - **Calcumed**:
+- **Factushop**: Shop engine written in PHP, Smarty, and Bootstrap.
+- **Factunube**: Created the mobile app using ST2, and cordova. Also wrote most of the ecosystem in PHP.
 - **Maze of the Dead**: Unity3d game for Android and iOS, featured in several game sites. [Android](https://play.google.com/store/apps/details?id=com.jllodra.mazeofthedead&hl=es) and [iOS](https://itunes.apple.com/es/app/maze-of-the-dead/id793424993?mt=8).
 - **ImagePlayer**: a jQuery plugin that creates a player from static images. [Link](http://jllodra.github.io/imageplayer/).
 - **jGallery**: a Bash script to create static html image galleries, featured in bashscripts.org. [Link](http://webcache.googleusercontent.com/search?q=cache:Blj323vUWtMJ:bashscripts.org/forum/viewtopic.php%3Ff%3D7%26t%3D269+&cd=1&hl=es&ct=clnk&gl=es).
@@ -27,3 +29,7 @@ Do you have any interesting project or proposal? My reply ratio is 100%: [jlg.hr
 
 - [Chico minimal](https://archive.org/details/bump024)
 - [Soundcloud](http://soundcloud.com/herotyc)
+
+### Freelance translator
+
+Working for Steinberg Media Technologies GmbH since 2007.
