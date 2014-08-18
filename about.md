@@ -11,7 +11,7 @@ Do you have any interesting project or proposal? My reply ratio is 100%: [jlg.hr
 ### Projects and works (foss and non-foss)
 
 - **PyPrint**: HTTP printing server written in Python, capable of html and pdf printing, perfect to be called from client-side javascript.
-- **Modest**:
+- **Modest**: A native module music player (it/xm/s3m/mod) for Mac OS X. It can also stream from scenemusic (nectarine radio).
 - **ncdump-json**: 
 - **html5 creative experiments**:
 - **Times tables game**:
