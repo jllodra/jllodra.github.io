@@ -1,8 +1,7 @@
 ---
-published: true
+published: false
+layout: post
 ---
-
-## Creatividad con CSS3, canvas, y webGL
 
 Durante estos días de "vacaciones", he dedicado unas a realizar algunos experimentos de programación gráfica, o programación creativa, directamente sobre el navegador.
 
