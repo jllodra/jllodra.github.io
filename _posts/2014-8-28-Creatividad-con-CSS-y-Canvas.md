@@ -13,7 +13,7 @@ Aquí están mis resultados:
 - Un árbol de pitágoras (three.js): [http://codepen.io/jllodra/pen/aqLlg](http://codepen.io/jllodra/pen/aqLlg)
 - Una versión sui-generis del árbol de pitágoras (three.js): [http://codepen.io/jllodra/full/efsDd/](http://codepen.io/jllodra/full/efsDd/)
 
-![](/_posts/images/Screenshot%202014-08-28%2016.39.40.png)
+![](https://dl.dropboxusercontent.com/u/11570580/Images-blog/1-pythagoras.png)
 
 El principio general de estos algoritmos es simple: un árbol es un tronco + otro árbol más pequeño (a la izquierda) + otro árbol más pequeño (a la derecha). Estos otros árboles más pequeños son a su vez un tronco, y tienen también dos árboles más pequeños; así hasta alcanzar el nivel de profundidad que deseemos.
 
