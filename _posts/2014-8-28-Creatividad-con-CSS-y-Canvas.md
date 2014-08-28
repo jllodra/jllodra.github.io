@@ -15,11 +15,11 @@ Aquí están mis resultados:
 
 ![](https://dl.dropboxusercontent.com/u/11570580/Images-blog/1-pythagoras.png)
 
-El principio general de estos algoritmos es simple: un árbol es un tronco + otro árbol más pequeño (a la izquierda) + otro árbol más pequeño (a la derecha). Estos otros árboles más pequeños son a su vez un tronco, y tienen también dos árboles más pequeños; así hasta alcanzar el nivel de profundidad que deseemos.
+El **principio general** de estos algoritmos es simple: un árbol es un tronco + otro árbol más pequeño (a la izquierda) + otro árbol más pequeño (a la derecha). Estos otros árboles más pequeños son a su vez un tronco, y tienen también dos árboles más pequeños; así hasta alcanzar el nivel de profundidad que deseemos.
 
 Luego me inspiró una "ilusión" óptica que vi en youtube, se trata de un movimiento lineal que nuestro cerebro interpreta como circular, ya que para él es más fácil, el vídeo en cuestión [es este](https://www.youtube.com/watch?v=pNe6fsaCVtI).
 
-Bajo la excusa de aprender lenguajes como SCSS, SASS, y JADE, traté de realizar algunas animaciones sin utilizar Javascript (o haciendo un uso anecdótico):
+Bajo la excusa de aprender lenguajes como SCSS, SASS, y JADE, traté de realizar algunas animaciones sin utilizar Javascript:
 
 - La ilusión del movimiento circular: [http://codepen.io/jllodra/pen/dwJck](http://codepen.io/jllodra/pen/dwJck)
 - Un texto scroller oldschool: [http://codepen.io/jllodra/pen/BvpwJ](http://codepen.io/jllodra/pen/BvpwJ)
