@@ -9,9 +9,9 @@ Creo que todo empezó cuando me topé con [esta imagen](http://upload.wikimedia.
 
 Aquí están mis resultados:
 
-- Un árbol binario (canvas): http://codepen.io/jllodra/pen/jCiox
-- Un árbol de pitágoras (three.js): http://codepen.io/jllodra/pen/aqLlg
-- Una versión sui-generis del árbol de pitágoras (three.js): http://codepen.io/jllodra/full/efsDd/
+- Un árbol binario (canvas): [http://codepen.io/jllodra/pen/jCiox](http://codepen.io/jllodra/pen/jCiox)
+- Un árbol de pitágoras (three.js): [http://codepen.io/jllodra/pen/aqLlg](http://codepen.io/jllodra/pen/aqLlg)
+- Una versión sui-generis del árbol de pitágoras (three.js): [http://codepen.io/jllodra/full/efsDd/](http://codepen.io/jllodra/full/efsDd/)
 
 ![](/_posts/images/Screenshot%202014-08-28%2016.39.40.png)
 
@@ -21,10 +21,10 @@ Luego me inspiró una "ilusión" óptica que vi en youtube, se trata de un movim
 
 Bajo la excusa de aprender lenguajes como SCSS, SASS, y JADE, traté de realizar algunas animaciones sin utilizar Javascript (o haciendo un uso anecdótico):
 
-- La ilusión del movimiento circular: http://codepen.io/jllodra/pen/dwJck
-- Un texto scroller oldschool: http://codepen.io/jllodra/pen/BvpwJ
-- Una especie de pulpo giratorio: http://codepen.io/jllodra/full/AceDp/
-- Un pulpo más divertido: http://codepen.io/jllodra/full/nKzla
+- La ilusión del movimiento circular: [http://codepen.io/jllodra/pen/dwJck](http://codepen.io/jllodra/pen/dwJck)
+- Un texto scroller oldschool: [http://codepen.io/jllodra/pen/BvpwJ](http://codepen.io/jllodra/pen/BvpwJ)
+- Una especie de pulpo giratorio: [http://codepen.io/jllodra/full/AceDp/](http://codepen.io/jllodra/full/AceDp/)
+- Un pulpo más divertido: [http://codepen.io/jllodra/full/nKzla](http://codepen.io/jllodra/full/nKzla)
 
 Todas estas animaciones se basan en la utilización de "keyframes" css, y transformaciones sencillas como translate, rotate, scale, y skew.
 
