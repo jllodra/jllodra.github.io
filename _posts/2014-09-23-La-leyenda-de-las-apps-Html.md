@@ -22,7 +22,7 @@ Algo parecía andar mal y Facebook hizo un comunicado explicando que pasaría su
 
 Muchos no lo querían ver pero html5 perdía un gran aliado. ¿jQuery mobile, Sencha Touch, Phonegap, Cordova? Buenas herramientas, pero parece que la industria tenía poco interés en "hacerse la competencia". Steve Jobs siempre fue un purista, quería que las apps fueran perfectas, si html5/js hubiera sido perfecto yo no estaría programando en Swift ahora mismo. El caso de Android es simplemente como todos sus problemas, eso que llaman _fragmentación_.
 
-Lo cierto es que la fundación Wikimedia ya ha abandonado html5 y phonegap, [aunque en la página web de phonegap no lo digan](http://phonegap.com/app/wikipedia/). En la página del repositorio de la app de Wikipedia para iOS lo ponen claramente:
+Lo cierto es que la fundación Wikimedia ya ha abandonado phonegap, [aunque en la página web de phonegap no lo digan](http://phonegap.com/app/wikipedia/), y apuestan por una solución nativa y controlada, aunque también incluyen un UIWebView. En la página del repositorio de la app de Wikipedia para iOS explican que es para aumentar la rapidez, mejorar tiempo de carga, etc:
 
 > This generation of the Wikipedia reader app is built around native UI chrome (menus, toolbars, search UI, preferences, caching, etc) to improve startup time, responsiveness and "nativey" look-n-feel versus **a previous HTML-based approach using PhoneGap/Apache Cordova**.
 
@@ -31,4 +31,3 @@ Lo cierto es que la fundación Wikimedia ya ha abandonado html5 y phonegap, [aun
 [Los últimos benchmarks no son alentadores.](http://www.anandtech.com/show/8559/iphone-6-and-iphone-6-plus-preliminary-results)
 
 Podéis seguirme en twitter como @josep_llodra.
-
