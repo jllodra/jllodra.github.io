@@ -18,7 +18,7 @@ Pero en esa época todos teníamos ilusión, cada día teníamos herramientas nu
 
 Luego pasó el tiempo, aunque parecía que para las apps html5 se detenía, o cada vez iba más lento. Cierto, las apps html5 cada vez iban peor, algunas features se rompían, o incluso peor, en mi móvil funcionaban y en el tuyo no.
 
-Algo parecía andar mal y Facebook hizo un comunicado explicando que pasaría su aplicación iOS a Obj-C, es decir, a nativa. [Ha llovido, fue en 2012.](http://bits.blogs.nytimes.com/2012/06/27/facebook-plans-to-speedup-its-iphone-app/?_php=true&_type=blogs&_r=0). De hecho no sé si la aplicación Android es nativa o siguen manteniendo la versión html5, pero lo dudo.
+Algo parecía andar mal y Facebook hizo un comunicado explicando que pasaría su aplicación iOS a Obj-C, es decir, a nativa. [Ha llovido, fue en 2012](http://bits.blogs.nytimes.com/2012/06/27/facebook-plans-to-speedup-its-iphone-app/?_php=true&_type=blogs&_r=0). De hecho no sé si la aplicación Android es nativa o siguen manteniendo la versión html5, pero lo dudo.
 
 Muchos no lo querían ver pero html5 perdía un gran aliado. ¿jQuery mobile, Sencha Touch, Phonegap, Cordova? Buenas herramientas, pero parece que la industria tenía poco interés en "hacerse la competencia". Steve Jobs siempre fue un purista, quería que las apps fueran perfectas, si html5/js hubiera sido perfecto yo no estaría programando en Swift ahora mismo. El caso de Android es simplemente como todos sus problemas, eso que llaman _fragmentación_.
 
