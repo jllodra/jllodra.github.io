@@ -3,7 +3,7 @@ published: true
 layout: post
 ---
 
-Durante estos días de "vacaciones", he dedicado unas a realizar algunos experimentos de programación gráfica, o programación creativa, directamente sobre el navegador.
+Durante estos días de "vacaciones", he dedicado unas horas a realizar algunos experimentos de programación gráfica, o programación creativa, directamente sobre el navegador.
 
 Creo que todo empezó cuando me topé con [esta imagen](http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pythagoras_tree_1_1_13_Summer.svg/1280px-Pythagoras_tree_1_1_13_Summer.svg.png), el árbol de Pitágoras, que es una figura basada en la aplicación del teorema de Pitágoras. Me inspiró para intentar realizar alguna imagen recursiva (o fractal) en Javascript y directamente sobre el navegador. Ya había hecho alguna imagen de este tipo antes, pero no directamente para navegador, sino en Pascal o C.
 

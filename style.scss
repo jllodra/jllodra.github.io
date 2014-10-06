@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+  background: $white;
+  font: 16px/1.4 $helvetica;
   color: $darkGray;
+  border-top: 16px solid #eee;
 }
 
 .container {
@@ -32,10 +33,12 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
+  text-transform: uppercase;
+  font-variant: small-caps;
   color: $darkerGray;
   font-weight: 600;
   
-  line-height: 1.1;
+  line-height: 1.4;
   margin: 1em 0 15px;
   padding: 0;
 
@@ -45,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 }
   
 h1 {  
-  font-weight: 500;
+  font-weight: normal;
   font-size: 24px;
   a {
     color: inherit;
