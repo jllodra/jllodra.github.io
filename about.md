@@ -4,32 +4,27 @@ title: About
 published: true
 ---
 
-I am a software developer who has been writing code since the age of 16.
+Consultor informático y programador de software.
 
-Do you have any interesting project or proposal? My reply ratio is 100%: [jlg.hrtc@gmail.com](mailto:jlg.hrtc@gmail.com)
+### Algunos proyectos
 
-### Projects and works (foss and non-foss)
+- **PyPrint**: Un servidor de impresión HTTP en Python, capaz de imprimir tanto en html como en pdf, perfecto para invocarse desde un cliente, por ejemplo javascript.
+- **Modest**: Un reproductor de formatos musicales peculiares  (it/xm/s3m/mod) para Mac OS X, escrito en Objective-C.
+- **ncdump-json**: Es un programa, escrito en C, para serializar archivos .nc en json.
+- **html5 creative experiments**: Algunos experimentos en html5 que están en mi cuenta de github.
+- **Times tables game**: Un juego de tablas de multiplicar para niños, en iPad.
+- **Silabear**: Un juego de dividir en sílabas palabras del Español, para iPhone y iPad.
+- **Calcumed**: Una aplicación para personal sanitario.
+- **Factushop**: Un motor de tiendas online, escrito en php, smarty, y bootstrap.
+- **Factunube**: Es una plataforma para la facturación y gestión de pymes sobre web.
+- **Maze of the Dead**: Un juego en unity3d. [Android](https://play.google.com/store/apps/details?id=com.jllodra.mazeofthedead&hl=es) and [iOS](https://itunes.apple.com/es/app/maze-of-the-dead/id793424993?mt=8).
+- **ImagePlayer**: un plugin jQuery que crea un reproductor a partir de imágenes estáticas. [Link](http://jllodra.github.io/imageplayer/).
+- **cmod**: un reproductor de música en C, en modo texto, con ncurses. [Link](https://github.com/jllodra/cmod).
+- **averRemote**: un plugin para amarok 1.x, que te permitía controlarlo con tu mando a distancia. [Link](http://linux.softpedia.com/get/Multimedia/Audio/amaroK-Scripts/averRemote-11683.shtml).
 
-- **PyPrint**: HTTP printing server written in Python, capable of html and pdf printing, perfect to be called from client-side javascript.
-- **Modest**: A native module music player (it/xm/s3m/mod) for Mac OS X written in Objective-C. It can also stream from scenemusic (nectarine radio).
-- **ncdump-json**: 
-- **html5 creative experiments**:
-- **Times tables game**:
-- **Silabear**:
-- **Calcumed**:
-- **Factushop**: Shop engine written in PHP, Smarty, and Bootstrap.
-- **Factunube**: Created the mobile app using ST2, and cordova. Also wrote most of the ecosystem in PHP.
-- **Maze of the Dead**: Unity3d game for Android and iOS, featured in several game sites. [Android](https://play.google.com/store/apps/details?id=com.jllodra.mazeofthedead&hl=es) and [iOS](https://itunes.apple.com/es/app/maze-of-the-dead/id793424993?mt=8).
-- **ImagePlayer**: a jQuery plugin that creates a player from static images. [Link](http://jllodra.github.io/imageplayer/).
-- **jGallery**: a Bash script to create static html image galleries, featured in bashscripts.org. [Link](http://webcache.googleusercontent.com/search?q=cache:Blj323vUWtMJ:bashscripts.org/forum/viewtopic.php%3Ff%3D7%26t%3D269+&cd=1&hl=es&ct=clnk&gl=es).
-- **cmod**: textmode music player written in C, using ncurses and basslib. [Link](https://github.com/jllodra/cmod).
-- **averRemote**: a software to control Amarok 1.x using your averMedia infrared remote controller. Written in Python as Amarok plug-in. [Link](http://linux.softpedia.com/get/Multimedia/Audio/amaroK-Scripts/averRemote-11683.shtml).
+### Me dedico a
 
-### Music
+Consultoría y desarrollo de software en [Atlatis of Code](http://atlantisofcode.com)
+Traductor para [Steinberg](http://steinberg.net), desde 2007.
 
-- [Chico minimal](https://archive.org/details/bump024)
-- [Soundcloud](http://soundcloud.com/herotyc)
-
-### Freelance translator
-
-Working for Steinberg Media Technologies GmbH since 2007.
+¿Tienes algo interesante que contarme? Respondo el 100% de los correos: [jlg.hrtc@gmail.com](mailto:jlg.hrtc@gmail.com)
