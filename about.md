@@ -25,6 +25,7 @@ Consultor informático y programador de software.
 ### Me dedico a
 
 Consultoría y desarrollo de software en [Atlatis of Code](http://atlantisofcode.com)
+
 Traductor para [Steinberg](http://steinberg.net), desde 2007.
 
 ¿Tienes algo interesante que contarme? Respondo el 100% de los correos: [jlg.hrtc@gmail.com](mailto:jlg.hrtc@gmail.com)
