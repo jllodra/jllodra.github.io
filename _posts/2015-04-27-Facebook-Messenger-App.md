@@ -12,11 +12,11 @@ Empecé a mirar el código y ví que era un iframe de messenger.com, pero hecho 
 
 Buscando en Google ví que hay varias apps que ya están utilizando estas técnicas, ya sea con webviews chromium, o safari.
 
-https://github.com/Aluxian/Facebook-Messenger-Desktop
+[https://github.com/Aluxian/Facebook-Messenger-Desktop](https://github.com/Aluxian/Facebook-Messenger-Desktop)
 
-http://www.goofyapp.com
+[http://www.goofyapp.com](http://www.goofyapp.com)
 
-http://fbmacmessenger.rsms.me
+[http://fbmacmessenger.rsms.me](http://fbmacmessenger.rsms.me)
 
 Yo estoy usando la primera, pero parece que cada día están surgiendo más apps de este estilo, estaría bien que Facebook publicara una oficial, o que al menos no haga ningún tipo de acción que prevenga el uso de estas apps que nos ahorran el tener que dedicar una pestaña del browser ello.
 
