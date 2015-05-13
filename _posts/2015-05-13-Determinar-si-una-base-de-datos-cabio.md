@@ -25,14 +25,11 @@ Necesitamos saber qué bases de datos han cambiado.
 
 > Los valores de las columnas **tup_inserted**, **tup_updated**, **tup_deleted** nos indican el número de inserciones, actualizaciones y eliminaciones totales que ha sufrido una base de datos.
 
-```sql
-select tup_inserted,tup_updated,tup_deleted from pg_stat_database where datname = 'base_de_datos';
-
- tup_inserted | tup_updated | tup_deleted
---------------+-------------+-------------
-            0 |           0 |           0
-(1 row)
-```
+	select tup_inserted,tup_updated,tup_deleted from pg_stat_database where datname = 'base_de_datos';
+	 tup_inserted | tup_updated | tup_deleted
+	--------------+-------------+-------------
+	            0 |           0 |           0
+	(1 row)
 
 Esta base de datos no ha sufrido ningún cambio todavía.
 Vamos a hacer un cambio de definición (DDL).
