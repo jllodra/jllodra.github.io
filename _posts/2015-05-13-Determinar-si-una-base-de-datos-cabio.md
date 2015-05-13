@@ -25,8 +25,9 @@ Necesitamos saber qué bases de datos han cambiado.
 
 > Los valores de las columnas **tup_inserted**, **tup_updated**, **tup_deleted** nos indican el número de inserciones, actualizaciones y eliminaciones totales que ha sufrido una base de datos.
 
-```
+```sql
 select tup_inserted,tup_updated,tup_deleted from pg_stat_database where datname = 'base_de_datos';
+
  tup_inserted | tup_updated | tup_deleted
 --------------+-------------+-------------
             0 |           0 |           0
