@@ -8,6 +8,7 @@ Consultor informático y programador de software.
 
 ### Algunos proyectos
 
+- **Playas de Baleares**: Una aplicación para iOS con toda la informacón offline sobre las playas de Mallorca, Menorca, Ibiza y Formentera. [iTunes](https://itunes.apple.com/us/app/playas-baleares-mallorca-menorca/id981031196?l=es&ls=1&mt=8)
 - **PyPrint**: Un servidor de impresión HTTP en Python, capaz de imprimir tanto en html como en pdf, perfecto para invocarse desde un cliente, por ejemplo javascript.
 - **Modest**: Un reproductor de formatos musicales peculiares  (it/xm/s3m/mod) para Mac OS X, escrito en Objective-C.
 - **ncdump-json**: Es un programa, escrito en C, para serializar archivos .nc en json.
