@@ -35,7 +35,7 @@ Esta base de datos no ha sufrido ningún cambio todavía.
 Vamos a hacer un cambio de definición (DDL).
 
 	CREATE TABLE DEPARTMENT(
-    	ID INT PRIMARY KEY      NOT NULL,
+	    ID INT PRIMARY KEY      NOT NULL,
 	    DEPT           CHAR(50) NOT NULL,
 	    EMP_ID         INT      NOT NULL
 	 );
