@@ -34,21 +34,17 @@ Necesitamos saber qué bases de datos han cambiado.
 Esta base de datos no ha sufrido ningún cambio todavía.
 Vamos a hacer un cambio de definición (DDL).
 
-```
-CREATE TABLE DEPARTMENT(
-    ID INT PRIMARY KEY      NOT NULL,
-    DEPT           CHAR(50) NOT NULL,
-    EMP_ID         INT      NOT NULL
- );
-```
+	CREATE TABLE DEPARTMENT(
+    	ID INT PRIMARY KEY      NOT NULL,
+	    DEPT           CHAR(50) NOT NULL,
+	    EMP_ID         INT      NOT NULL
+	 );
 
-```
-select tup_inserted,tup_updated,tup_deleted from pg_stat_database where datname = 'base_de_datos';
- tup_inserted | tup_updated | tup_deleted
---------------+-------------+-------------
-           21 |           0 |           0
-(1 row)
-```
+	select tup_inserted,tup_updated,tup_deleted from pg_stat_database where datname = 'base_de_datos';
+	 tup_inserted | tup_updated | tup_deleted
+	--------------+-------------+-------------
+	           21 |           0 |           0
+	(1 row)
 
 El hecho de crear una tabla ha tenido como consecuencia 21 operaciones de inserción. Los cambios en datos (DML) también se reflejarían como operaciones, por supuesto.
 
