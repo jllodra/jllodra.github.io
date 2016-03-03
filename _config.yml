@@ -83,4 +83,4 @@ defaults:
 
 future: true
 
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
