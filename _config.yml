@@ -80,3 +80,5 @@ defaults:
       type: "post" # "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
+
+future: true
