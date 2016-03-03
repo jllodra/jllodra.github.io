@@ -17,14 +17,14 @@ avatar: https://pbs.twimg.com/profile_images/494608569933647873/WGqib4Jr_400x400
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: 
+  dribbble:
   email: jlg.hrtc@gmail.com
-  facebook: 
-  flickr: 
+  facebook:
+  flickr:
   github: jllodra
-  instagram: 
+  instagram:
   linkedin: jllodra
-  pinterest: 
+  pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: josep_llodra
 
@@ -38,7 +38,7 @@ google_analytics: UA-30057581-1
 # Used for Sitemap.xml and your RSS feed
 url: http://jllodra.github.io
 
-# If you're hosting your site at a Project repository on GitHub pages 
+# If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
