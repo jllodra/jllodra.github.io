@@ -116,16 +116,19 @@ img {
 }
 
 img[alt=small] {
+  display: block;
   margin: 0 auto;
   width: 200px;
 }
 
 img[alt=medium] {
+  display: block;
   margin: 0 auto;
   width: 400px;
 }
 
 img[alt=big] {
+  display: block;
   margin: 0 auto;
   width: 600px;
 }
