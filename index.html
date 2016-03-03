@@ -4,15 +4,15 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">    
-      
+    <article class="post">
+
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <h2>{{ post.date | date: "%-d-%m-%Y" }}</h2>
       <div class="entry">
-        {{ post.content | truncatewords:40}}
+        {{ post.content | truncatewords:60}}
       </div>
-      
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer más</a>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more / Leer más</a>
     </article>
   {% endfor %}
 
