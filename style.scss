@@ -115,6 +115,18 @@ img {
   max-width: 100%;
 }
 
+img[alt=small] {
+  width: 200px;
+}
+
+img[alt=medium] {
+  width: 400px;
+}
+
+img[alt=big] {
+  width: 600px;
+}
+
 .date {
   font-style: italic;
   color: $gray;

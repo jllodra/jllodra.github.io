@@ -6,7 +6,7 @@ published: true
 
 Last Monday I gave a talk about the new opportunities we're having with the Big Data wave. I honestly think that more than ever we're now seeing Machine Learning usages, and the Internet of Things at this very moment a really good niche to try new businesses.
 
-![PalmaActiva](/images/posts/bigdata.jpg)
+![medium](/images/posts/bigdata.jpg)
 
 ---
 
