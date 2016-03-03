@@ -82,4 +82,5 @@ defaults:
       layout: "post"
 
 future: true
+
 excerpt_separator: <!--more-->
