@@ -6,11 +6,13 @@ TL;DR
 
 Muchos dicen que existen, que las han visto, incluso que las han programado; lo cierto es que yo cada día veo menos aplicaciones en HTML5 para móvil.
 
+<!--more-->
+
 ¿Qué ha ocurrido? Yo era el principal defensor de las aplicaciones en HTML sobre móvil, a todos les decía que reducíamos el coste (tiempo) a la mitad, ¡incluso más!, y que solo mantendríamos un único _codebase_. Todo bonito.
 
 Resultó ser cierto, la casa se terminaba más rápido, era bonita, así de lejos... Luego cuando entrabas a veces no funcionaban los grifos, o el sofá era incómodo, incluso alguna gotera. Aunque lo peor era si la comparabas con una aplicación nativa, sobretodo si era de iOS... La tuya, hecha en ese "gran" **html5 (con todo ese boilerplate)** siempre acababa pareciendo una chabola. No se vendía.
 
-Todo esto lo hemos comprobado rápidamente, ¿verdad? cuando hicimos nuestra primera app html5. Pero no perdíamos la esperanza: Steve Jobs va a arreglar el mundo, ya verás con el iPhone4... o el 5, irán muy rápidas estas apps, los engines de Javascript estarán avanzadísimos. Y los de Android, siendo Google los "amos" de webkit y chrome, les interesa que funcione. 
+Todo esto lo hemos comprobado rápidamente, ¿verdad? cuando hicimos nuestra primera app html5. Pero no perdíamos la esperanza: Steve Jobs va a arreglar el mundo, ya verás con el iPhone4... o el 5, irán muy rápidas estas apps, los engines de Javascript estarán avanzadísimos. Y los de Android, siendo Google los "amos" de webkit y chrome, les interesa que funcione.
 
 Pero la cosa seguía igual, incluso a veces alguna feature se rompía entre versión y versión de Android, y con tanto stock browser de por medio.
 

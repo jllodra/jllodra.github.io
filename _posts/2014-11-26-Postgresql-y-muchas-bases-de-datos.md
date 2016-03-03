@@ -6,6 +6,8 @@ published: true
 
 PostgreSQL se compone de varios procesos, entre ellos el recolector de estadísticas, y el autovacuum.
 
+<!--more-->
+
 **Información general**
 
 El [recolector de estadísticas](http://www.postgresql.org/docs/devel/static/monitoring-stats.html) se encarga de recopilar datos acerca de la actividad del servidor. El [autovacuum daemon](http://www.postgresql.org/docs/devel/static/routine-vacuuming.html) es un proceso que según los datos recogidos por el recolector, optimizará y limpiará nuestras bases de datos. El autovacuum es una funcionalidad muy importante y necesaria para el mantenimiento de nuestras bases de datos.

@@ -6,6 +6,8 @@ published: true
 
 Hay veces en las que tenemos que plantearnos cómo hacer copias de seguridad de forma inteligente de nuestras bases de datos.
 
+<!--more-->
+
 Existen varias soluciones cuando se trata de Postgresql:
 
 * Usar **pg_dump** (con formato plain, o custom)
@@ -19,7 +21,7 @@ Otra solución es usar pg\_dumpall, que realmente lo que hace es usar pg\_dump p
 
 Si lo que queremos es realizar copias de seguridad completas y a la vez poder restaurar bases de datos por separado (imaginemos que un cliente borró algunos datos por equivocación y necesitamos restaurar solo la base de dados de ese cliente), la solución más idónea es utilizar **pg_dump**, y con el formato **custom**, que nos permite el restaurado con el comando pg\_restore, y también será posible convertir el *dump* a *plain sql*.
 
-Además, si nuestro escenario consiste en muchas (cientos) de bases de datos que debemos copiar, pero realmente pocas de esas bases de datos cambian diariamente (muchos de nuestros usuarios solo realizan consultas durante el día), llegamos a la conclusión que no es necesario copiar todas las bases de datos, si no solo las bases de datos que han cambiado desde la última copia realizada. 
+Además, si nuestro escenario consiste en muchas (cientos) de bases de datos que debemos copiar, pero realmente pocas de esas bases de datos cambian diariamente (muchos de nuestros usuarios solo realizan consultas durante el día), llegamos a la conclusión que no es necesario copiar todas las bases de datos, si no solo las bases de datos que han cambiado desde la última copia realizada.
 
 Necesitamos saber qué bases de datos han cambiado.
 
